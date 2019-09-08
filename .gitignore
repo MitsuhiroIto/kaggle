@@ -1,0 +1,9 @@
+*.pyc
+*.h5
+*.weights
+output/*
+*.DS_Store
+!.gitkeep
+*/.ipynb_checkpoints/*
+
+
